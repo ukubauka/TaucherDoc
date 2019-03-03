@@ -13,6 +13,9 @@ Ulf Riehm
 === Rauf
 Je größer, desto rauf
 
+.Ein Beispiel am Toen Meer
+image::Images/jpeg/1280px-Dead_sea_newspaper.jpg[]
+
 === Runter
 
 == Auftrieb beim Tauchen
