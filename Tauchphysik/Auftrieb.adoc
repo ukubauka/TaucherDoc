@@ -1,0 +1,23 @@
+= Auftrieb
+Ulf Riehm
+
+== Physikalische Grundlagen
+
+Je größer, desto rauf
+
+== Auftrieb beim Tauchen
+
+Ja, physik gilt überall
+
+=== Jacket
+
+Das Jacket gibt Auftrieb
+
+=== Lunge
+
+Die Lunge auch
+
+== Verständnisfragen
+
+. Wie geht Auftrieb?
+. Warum?
