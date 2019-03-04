@@ -8,6 +8,6 @@
 ** xref:tauchgang:Licht.adoc[Licht]
 
 * Tauchausrüstung
-** xref:tauchausruestung:Jacket.adoc[Jacket]
-** xref:tauchausrusetung:Flasche.adoc[Flasche]
-** xref:tauchausruestung:Atemregler.adoc[Atemregler]
+** xref:tauchausruestung:jacket.adoc[Jacket]
+** xref:tauchausrusetung:flasche.adoc[Flasche]
+** xref:tauchausruestung:atemregler.adoc[Atemregler]
