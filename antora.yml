@@ -1,5 +1,7 @@
 name: TaucherDoc
-version: '0.0'
+version: 'latest'
 title: TaucherDoc
+start_page: ROOT:index.adoc
+
 nav:
 - modules/ROOT/nav.adoc
