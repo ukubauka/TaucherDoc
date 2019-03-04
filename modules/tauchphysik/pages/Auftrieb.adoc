@@ -4,6 +4,7 @@
 :toc: left
 :toclevels: 3
 :stem:
+:imagesdir: ../assets/images
 
 = Auftrieb
 Ulf Riehm
@@ -14,7 +15,7 @@ Ulf Riehm
 Je größer, desto rauf
 
 .Ein Beispiel am Toen Meer
-image::Images/jpeg/1280px-Dead_sea_newspaper.jpg[]
+image::jpeg/1280px-Dead_sea_newspaper.jpg[]
 
 === Runter
 
