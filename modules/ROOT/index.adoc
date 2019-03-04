@@ -1,1 +1,5 @@
+= Index
+
 Hey Folks!
+
+xref:nav.adoc[Start here]
