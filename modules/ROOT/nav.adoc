@@ -1,4 +1,4 @@
-* Tauchphysik
+* xref:tauchphysik:tauchphysik.adoc[Tauchphysik]
 ** xref:tauchphysik:auftrieb.adoc[Auftrieb]
 ** xref:tauchphysik:gasgesetz.adoc[Gasgesetze]
 ** xref:tauchphysik:gasaustausch.adoc[Gasaustausch]
