@@ -1,7 +1,7 @@
 * Tauchphysik
-** xref:tauchphysik:Auftrieb.adox[Auftrieb]
-** xref:tauchphysik:Gasgesetz.adoc[Gasgesetze]
-** xref:tauchphysik:Gasaustausch.adoc[Gasaustausch]
+** xref:tauchphysik:auftrieb.adoc[Auftrieb]
+** xref:tauchphysik:gasgesetz.adoc[Gasgesetze]
+** xref:tauchphysik:gasaustausch.adoc[Gasaustausch]
 
 * Tauchgang
 ** xref:tauchgang:Stroemung.adoc[Stroemung]
