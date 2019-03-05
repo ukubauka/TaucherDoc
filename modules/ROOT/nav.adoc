@@ -9,6 +9,6 @@
 
 * Tauchausrüstung
 ** xref:tauchausruestung:jacket.adoc[Jacket]
-** xref:tauchausrusetung:flasche.adoc[Flasche]
+** xref:tauchausruestung:flasche.adoc[Flasche]
 ** xref:tauchausruestung:atemregler.adoc[Atemregler]
 ** xref:tauchausruestung:flossen.adoc[Flossen]
